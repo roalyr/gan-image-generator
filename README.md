@@ -1,4 +1,5 @@
 # GAN image generator
+![Preview.png](Preview.png)
 
 ### Requirements 
 - `pip install tensorflow` or `pip install tensorflow-cpu`  
